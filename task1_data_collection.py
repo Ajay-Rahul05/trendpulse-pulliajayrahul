@@ -20,7 +20,7 @@ for category, url in categories.items():
     # Step 1: Get story IDs
     try:
         response = requests.get(url)
-        story_ids = response.json()[:25]  # up to 25 per category
+        story_ids = response.json()[:25]
     except Exception as e:
         print(f"Failed to fetch IDs for '{category}': {e}")
         time.sleep(2)
