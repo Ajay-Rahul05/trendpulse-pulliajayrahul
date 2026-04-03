@@ -1,0 +1,63 @@
+import requests
+import time
+import json
+import os
+from datetime import datetime
+
+categories = {
+    "technology": "https://hacker-news.firebaseio.com/v0/topstories.json",
+    "new":        "https://hacker-news.firebaseio.com/v0/newstories.json",
+    "best":       "https://hacker-news.firebaseio.com/v0/beststories.json",
+    "ask":        "https://hacker-news.firebaseio.com/v0/askstories.json",
+    "show":       "https://hacker-news.firebaseio.com/v0/showstories.json",
+}
+
+all_stories = []
+
+for category, url in categories.items():
+    print(f"\nFetching '{category}' stories...")
+
+    # Step 1: Get story IDs
+    try:
+        response = requests.get(url)
+        story_ids = response.json()[:25]  # up to 25 per category
+    except Exception as e:
+        print(f"Failed to fetch IDs for '{category}': {e}")
+        time.sleep(2)
+        continue
+
+    # Step 2: Fetch each story's details
+    for story_id in story_ids:
+        try:
+            story_url = f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json"
+            story = requests.get(story_url).json()
+
+            # Step 3: Extract only the fields we need
+            record = {
+                "post_id":      story.get("id"),
+                "title":        story.get("title"),
+                "category":     category,
+                "score":        story.get("score"),
+                "num_comments": story.get("descendants"),
+                "author":       story.get("by"),
+                "collected_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            }
+
+            all_stories.append(record)
+
+        except Exception as e:
+            print(f"  Failed to fetch story {story_id}: {e}")
+            # Don't crash, just move on
+
+    time.sleep(2)  # one sleep per category, not per story
+
+# Step 4: Save to JSON file
+os.makedirs("data", exist_ok=True)  # create data/ folder if it doesn't exist
+
+filename = f"data/trends_{datetime.now().strftime('%Y%m%d')}.json"
+
+with open(filename, "w") as f:
+    json.dump(all_stories, f, indent=2)
+
+print(f"\nTotal stories collected: {len(all_stories)}")
+print(f"Saved to: {filename}")
