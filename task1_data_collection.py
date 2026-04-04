@@ -47,12 +47,11 @@ for category, url in categories.items():
 
         except Exception as e:
             print(f"  Failed to fetch story {story_id}: {e}")
-            # Don't crash, just move on
 
-    time.sleep(2)  # one sleep per category, not per story
+    time.sleep(2)
 
 # Step 4: Save to JSON file
-os.makedirs("data", exist_ok=True)  # create data/ folder if it doesn't exist
+os.makedirs("data", exist_ok=True)
 
 filename = f"data/trends_{datetime.now().strftime('%Y%m%d')}.json"
 
