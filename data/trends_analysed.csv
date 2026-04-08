@@ -1,0 +1,83 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+47616361,Google releases Gemma 4 open models,technology,1321,385,jeffmcjunkin,2026-04-03 11:45:35,0.29122541603630864,True
+47616242,Decisions that eroded trust in Azure – by a former Azure Core engineer,technology,572,210,axelriet,2026-04-03 11:45:36,0.36649214659685864,True
+47618189,Tailscale's new macOS home,technology,405,196,tosh,2026-04-03 11:45:36,0.4827586206896552,True
+47598413,C89cc.sh – standalone C89/ELF64 compiler in pure portable shell,technology,94,14,gaigalas,2026-04-03 11:45:37,0.14736842105263157,False
+47562214,Free stuff makes us irrational,technology,40,35,Anon84,2026-04-03 11:45:38,0.8536585365853658,False
+47618084,Cursor 3,technology,362,295,adamfeldman,2026-04-03 11:45:38,0.8126721763085399,True
+47609356,Artemis II's toilet is a moon mission milestone,technology,202,78,1659447091,2026-04-03 11:45:39,0.3842364532019704,False
+47615002,Qwen3.6-Plus: Towards real world agents,technology,484,173,pretext,2026-04-03 11:45:40,0.35670103092783506,True
+47617415,Good ideas do not need lots of lies in order to gain public acceptance (2008),technology,217,87,sedev,2026-04-03 11:45:40,0.39908256880733944,False
+47560959,Show HN: Home Maker: Declare Your Dev Tools in a Makefile,technology,22,11,sthottingal,2026-04-03 11:45:41,0.4782608695652174,False
+47613981,LinkedIn is searching your browser extensions,technology,1645,693,digitalWestie,2026-04-03 11:45:42,0.42102065613608747,True
+47551847,The Joy of Numbered Streets,technology,34,12,dmit,2026-04-03 11:45:42,0.34285714285714286,False
+47561913,Vector Meson Dominance,technology,9,0,chmaynard,2026-04-03 11:45:43,0.0,False
+47618176,George Goble has died,technology,136,25,finaard,2026-04-03 11:45:43,0.18248175182481752,False
+47562762,Significant progress made on Xbox 360 recompilation,technology,100,22,tetrisgm,2026-04-03 11:45:44,0.21782178217821782,False
+47621448,A Few Good Magazines From the 70s and 80s,technology,50,14,OhMeadhbh,2026-04-03 11:45:45,0.27450980392156865,False
+47621438,Show HN: Made a little Artemis II tracker,technology,75,29,codingmoh,2026-04-03 11:45:45,0.3815789473684211,False
+47572288,JSON Canvas Spec (2024),technology,100,31,tobr,2026-04-03 11:45:46,0.3069306930693069,False
+47613078,Inside Nepal's Fake Rescue Racket,technology,277,118,lode,2026-04-03 11:45:47,0.4244604316546763,True
+47617376,OpenAI Acquires TBPN,technology,189,154,surprisetalk,2026-04-03 11:45:48,0.8105263157894737,False
+47620933,Memo: A language that remembers only the last 12 lines of code,technology,42,17,notem,2026-04-03 11:45:48,0.3953488372093023,False
+47593861,Maze Algorithms (1997),technology,34,5,marukodo,2026-04-03 11:45:50,0.14285714285714285,False
+47615490,Artemis computer running two instances of MS outlook; they can't figure out why,technology,371,282,mooreds,2026-04-03 11:45:50,0.7580645161290323,True
+47621792,Post Mortem: axios NPM supply chain compromise,technology,75,42,Kyro38,2026-04-03 11:45:51,0.5526315789473685,False
+47603657,Artemis II Launch Day Updates,best,1078,934,apitman,2026-04-03 11:46:14,0.865616311399444,True
+47612601,"Sweden goes back to basics, swapping screens for books in the classroom",best,801,393,novaRom,2026-04-03 11:46:15,0.49002493765586036,True
+47609564,Steam on Linux Use Skyrocketed Above 5% in March,best,731,339,hkmaxpro,2026-04-03 11:46:15,0.46311475409836067,True
+47602832,EmDash – A spiritual successor to WordPress that solves plugin security,best,667,489,elithrar,2026-04-03 11:46:16,0.7320359281437125,True
+47606840,DRAM pricing is killing the hobbyist SBC market,best,608,527,ingve,2026-04-03 11:46:17,0.8653530377668309,True
+47612724,Lemonade by AMD: a fast and open source local LLM server using GPU and NPU,best,485,107,AbuAssar,2026-04-03 11:46:18,0.22016460905349794,True
+47612053,"I Am Not A Number. In memory of the more than 72,000 Palestinians killed",best,418,118,bjourne,2026-04-03 11:46:20,0.28162291169451076,True
+47598511,I quit. The clankers won,best,410,472,domysee,2026-04-03 11:46:21,1.1484184914841848,True
+47597935,CERN levels up with new superconducting karts,best,394,85,fnands,2026-04-03 11:46:22,0.21518987341772153,True
+47604155,SpaceX files to go public,best,387,558,nutjob2,2026-04-03 11:46:22,1.4381443298969072,True
+47609694,Email obfuscation: What works in 2026?,best,346,96,jaden,2026-04-03 11:46:24,0.276657060518732,True
+47615449,Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps,best,338,146,speckx,2026-04-03 11:46:25,0.4306784660766962,True
+47609090,The Weather Channel – RetroCast,best,309,58,typeofhuman,2026-04-03 11:46:26,0.1870967741935484,True
+47611921,Significant raise of reports,best,291,149,stratos123,2026-04-03 11:46:26,0.5102739726027398,True
+47609882,Subscription bombing and how to mitigate it,best,286,177,homelessdino,2026-04-03 11:46:27,0.6167247386759582,True
+47607447,Artemis II lifts off: four astronauts begin 10-day lunar mission,best,278,1,Philpax,2026-04-03 11:46:28,0.0035842293906810036,True
+47615434,Delve allegedly forked an open-source tool and sold it as its own,best,277,142,nickvec,2026-04-03 11:46:28,0.5107913669064749,True
+47601859,Ask HN: Who is hiring? (April 2026),ask,264,301,whoishiring,2026-04-03 11:46:32,1.1358490566037736,True
+47601858,Ask HN: Who wants to be hired? (April 2026),ask,80,289,whoishiring,2026-04-03 11:46:33,3.567901234567901,False
+47618324,Ask HN: European Tech Alternatives?,ask,94,51,BrunoBernardino,2026-04-03 11:46:33,0.5368421052631579,False
+47616250,Ask HN: What is your dev set up like?,ask,11,17,break_the_bank,2026-04-03 11:46:34,1.4166666666666667,False
+47587597,Ask HN: Distributed data centers in our basements,ask,72,65,cmos,2026-04-03 11:46:35,0.8904109589041096,False
+47615145,Stripe closed my UAE business account and is withholding $3.5K,ask,20,2,alganzory,2026-04-03 11:46:35,0.09523809523809523,False
+47588658,"Tell HN: Chrome says ""suspicious download"" when trying to download yt-dlp",ask,305,95,joering2,2026-04-03 11:46:37,0.3104575163398693,True
+47599303,Ask HN: Client took over development by vibe coding. What to do?,ask,57,37,piscator,2026-04-03 11:46:37,0.6379310344827587,False
+47602040,Ask HN: What dev tools do you rely on that nobody talks about?,ask,36,30,crcsmnky,2026-04-03 11:46:38,0.8108108108108109,False
+47561489,LinkedIn uses 2.4 GB RAM across two tabs,ask,792,452,hrncode,2026-04-03 11:46:39,0.5699873896595208,True
+47620412,Ask HN: Should there be a temporary ban on new accounts?,ask,10,14,l33tbro,2026-04-03 11:46:39,1.2727272727272727,False
+47590261,Ask HN: Academic study on AI's impact on software development – want to join?,ask,30,15,research2026,2026-04-03 11:46:40,0.4838709677419355,False
+47601577,BetterDB – open-source Redis/Valkey migration across clouds and self-hosted,ask,14,6,kaliades,2026-04-03 11:46:40,0.4,False
+47605347,Ask HN: What happens when you block/mark as spam a call or text?,ask,12,2,dsalzman,2026-04-03 11:46:41,0.15384615384615385,False
+47601190,Are tech companies even hiring?,ask,19,18,KernelPryanic,2026-04-03 11:46:42,0.9,False
+47600980,Ask HN: How do you know if a tweak to your AI skill made it better?,ask,7,4,yo103jg,2026-04-03 11:46:42,0.5,False
+47593776,LinkedIn uses 65GB of RAM with 7 tabs opened,ask,14,9,daniele_dll,2026-04-03 11:46:43,0.6,False
+47571513,Ask HN: Who needs contributors? (March 2026),ask,28,16,Kathan2651,2026-04-03 11:46:44,0.5517241379310345,False
+47580841,Ask HN: Does anyone else notice that gas runs out faster than usual,ask,20,31,cat-turner,2026-04-03 11:46:44,1.4761904761904763,False
+47579221,Ask HN: What was it like in the era of BBS before the internet?,ask,31,35,ex-aws-dude,2026-04-03 11:46:45,1.09375,False
+47596768,"Non-US founders residential address problem with Brex, Mercury?",ask,8,1,Barazutti629,2026-04-03 11:46:46,0.1111111111111111,False
+47603133,Ask HN: Books on Unit Testing and TDD?,ask,7,6,Desafinado,2026-04-03 11:46:47,0.75,False
+47602028,Ask HN: Freelancer? Seeking freelancer? (April 2026),ask,5,10,jon_north,2026-04-03 11:46:47,1.6666666666666667,False
+47615844,Show HN: A P2P messenger with dual network modes (Fast and Tor),show,33,18,Realman78,2026-04-03 11:46:53,0.5294117647058824,False
+47618247,Show HN: SyNumpy – a Header only C++17 library for working with NumPy Arrays,show,17,2,symisc_devel,2026-04-03 11:46:54,0.1111111111111111,False
+47612321,Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries,show,92,53,rdme,2026-04-03 11:46:55,0.5698924731182796,False
+47606560,"Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",show,141,110,kasparnoor,2026-04-03 11:46:55,0.7746478873239436,False
+47621937,Show HN: A Minimal Basic Inspired by Brainfuck,show,5,0,ADavison2560,2026-04-03 11:46:56,0.0,False
+47617217,Show HN: I tested 15 free AI models at building real software on a $25/year VPS,show,18,3,j0rg3,2026-04-03 11:46:57,0.15789473684210525,False
+47571183,Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell),show,197,81,wazHFsRy,2026-04-03 11:46:57,0.4090909090909091,False
+47557921,Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs,show,329,43,hauntsaninja,2026-04-03 11:46:58,0.1303030303030303,True
+47621557,Show HN: SkiFlee (an HTML5 game),show,6,5,BSTRhino,2026-04-03 11:46:59,0.7142857142857143,False
+47574871,"Show HN: Zerobox – Sandbox any command with file, network, credential controls",show,136,90,afshinmeh,2026-04-03 11:46:59,0.656934306569343,False
+47589856,Show HN: Postgres extension for BM25 relevance-ranked full-text search,show,197,56,tjgreen,2026-04-03 11:47:00,0.2828282828282828,False
+47541746,Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel),show,149,41,jkool702,2026-04-03 11:47:01,0.2733333333333333,False
+47593422,"Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",show,417,153,PrismML,2026-04-03 11:47:01,0.3660287081339713,True
+47613668,Show HN: Abject: the first self-aware object runtime,show,8,2,mempko,2026-04-03 11:47:03,0.2222222222222222,False
+47603966,Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM,show,82,45,coolwulf,2026-04-03 11:47:04,0.5421686746987951,False
+47602986,Show HN: Real-time dashboard for Claude Code agent teams,show,73,24,simple10,2026-04-03 11:47:05,0.32432432432432434,False
+47594804,Show HN: Claude Code rewritten as a bash script,show,52,16,rpst,2026-04-03 11:47:06,0.3018867924528302,False
+47616777,"Show HN: Portcullis, a review gate for curl|bash",show,5,1,ImJasonH,2026-04-03 11:47:07,0.16666666666666666,False
